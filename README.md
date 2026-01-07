@@ -21,5 +21,5 @@ Currently, I am strengthening my skills in Python, SQL, and machine learning con
 - Developing strong problem-solving and analytical thinking  
 
 ## Contact
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Email: your-email@example.com
+- LinkedIn: https://linkedin.com/in/Ashisheoran
+- Email: ashisheoran1@gmail.com
