@@ -96,8 +96,14 @@ I value clean, readable code and a structured, analytical approach to problem-so
 ---
 ## ✍️ Random Dev Quote
 
+<!-- ===================== RANDOM DEV QUOTES (RANDOM TEXT) ===================== -->
+
+
+<!-- Algolia (Cool Background) -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
 </p>
+
+
 
 
