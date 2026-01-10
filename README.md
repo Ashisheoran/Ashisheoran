@@ -1,25 +1,103 @@
-# Hi, I'm Ashish 👋
+<h1 align="center">👋 Hi, I'm Ashish Sheoran</h1>
+<p align="center">
+  Aspiring Data Scientist | Data Analysis • Machine Learning • Business Insights
+</p>
 
-## About Me
-I am an aspiring Data Scientist with a strong foundation in data analysis and a keen interest in solving real-world problems using data. I enjoy working at the intersection of data, logic, and business understanding, and I focus on building solutions that are both technically sound and practically useful.
+---
 
-I have hands-on experience with data cleaning, exploratory data analysis, feature engineering, and basic machine learning workflows. I value writing clean, readable code and approaching problems with a structured and analytical mindset.
+## 🧠 About Me
 
-Currently, I am strengthening my skills in Python, SQL, and machine learning concepts while continuously improving my ability to communicate insights clearly. I am actively preparing for Data Analyst and Junior Data Scientist roles and remain committed to continuous learning and professional growth.
+I’m an aspiring Data Scientist with a strong foundation in data analysis and a genuine interest in solving real-world problems using data. I enjoy working with Python and SQL, performing exploratory data analysis, and building foundational machine learning models while always keeping business context in focus.
 
-## Core Skills
-- Python for data analysis and modeling  
-- Data cleaning, EDA, and feature engineering  
-- Data visualization and insight communication  
-- SQL fundamentals for analytics  
-- Machine learning fundamentals (regression, model evaluation)  
+I value clean, readable code and a structured, analytical approach to problem-solving. Currently, I am strengthening my skills in Python, SQL, and machine learning concepts, while continuously improving how I communicate insights clearly. I am actively preparing for Data Analyst and Junior Data Scientist roles.
 
-## Professional Focus
-- Translating data into actionable insights  
-- Building end-to-end analytical workflows  
-- Improving model performance and interpretability  
-- Developing strong problem-solving and analytical thinking  
+---
 
-## Contact
-- LinkedIn: https://linkedin.com/in/Ashisheoran
-- Email: ashisheoran1@gmail.com
+## 🚀 What I’m Working On
+
+📊 Performing end-to-end data analysis to uncover actionable insights  
+📈 Building dashboards and visualizations to communicate trends clearly  
+🤖 Practicing machine learning workflows (regression, evaluation, feature engineering)  
+🧹 Improving data cleaning and preprocessing techniques  
+📚 Strengthening fundamentals in statistics, SQL, and business analytics  
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img height="28" src="https://img.shields.io/badge/Generative%20AI-412991?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
+  </p>
+
+
+---
+
+## 🛠️ Featured Projects
+
+| Project | Description | Tools |
+|------|------------|-------|
+| **Career Skill Quest** | AI-powered platform for resume analysis, skill gap identification, and job recommendations | Python, Gemini AI |
+| **Coffee Shop Sales Analysis** | Sales trend analysis to identify peak hours and high-performing products | Excel, Python |
+| **California Housing Price Prediction** | Regression-based ML model for housing price prediction | Python, scikit-learn |
+| **SQL Sales Analysis** | Business insights from transactional data using SQL queries | SQL, MySQL |
+
+👉 More projects available in my repositories.
+
+---
+
+## 📚 What I’m Learning
+
+📊 Advanced EDA and feature engineering  
+📐 Statistics for data science  
+🤖 Machine learning model tuning and evaluation  
+📈 Business storytelling with data  
+🧠 Data science interview preparation  
+
+---
+<!--
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashisheoran&show_icons=true&theme=default" />
+</p>
+
+---
+-->
+## 📧 Contact Me
+
+📩 Email: ashisheoran1@gmail.com  
+🔗 LinkedIn: [Ashish Sheoran](https://www.linkedin.com/in/ashisheoran/)
+> Always learning, always improving. Let’s build data-driven solutions together.
+
+---
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+
