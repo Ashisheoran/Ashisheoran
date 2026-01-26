@@ -101,10 +101,6 @@ I value clean, readable code and a structured, analytical approach to problem-so
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashisheoran&layout=compact&theme=tokyonight" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashisheoran&theme=tokyonight" height="170" />
-</p>
-
 ---
 
 ## ✍️ Random Dev Quote
