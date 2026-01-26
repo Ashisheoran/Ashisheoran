@@ -94,6 +94,19 @@ I value clean, readable code and a structured, analytical approach to problem-so
 > Always learning, always improving. Let’s build data-driven solutions together.
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashisheoran&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashisheoran&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ashisheoran&theme=tokyonight" height="170" />
+</p>
+
+---
+
 ## ✍️ Random Dev Quote
 
 <!-- ===================== RANDOM DEV QUOTES (RANDOM TEXT) ===================== -->
