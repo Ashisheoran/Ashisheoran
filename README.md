@@ -60,6 +60,8 @@ I value clean, readable code and a structured, analytical approach to problem-so
 
 | Project | Description | Tools |
 |------|------------|-------|
+| **Movie Recommendation System** | Content-Based movie recommendation system using cosine similarity and Streamlit | Python, Streamlit |
+| ** Spam Detector** | Classifying Email/SMS massages as spam or non-spam using NLP techniques | Python, Streamlit, NLTK
 | **Career Skill Quest** | AI-powered platform for resume analysis, skill gap identification, and job recommendations | Python, Gemini AI |
 | **Coffee Shop Sales Analysis** | Sales trend analysis to identify peak hours and high-performing products | Excel, Python |
 | **California Housing Price Prediction** | Regression-based ML model for housing price prediction | Python, scikit-learn |
