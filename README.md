@@ -104,7 +104,12 @@ I value clean, readable code and a structured, analytical approach to problem-so
 </p>
 
 ---
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashisheoran&theme=tokyonight" />
+</p>
+---
 ## ✍️ Random Dev Quote
 
 <!-- ===================== RANDOM DEV QUOTES (RANDOM TEXT) ===================== -->
@@ -118,6 +123,11 @@ I value clean, readable code and a structured, analytical approach to problem-so
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=I'm%20not%20a%20great%20programmer;%20I'm%20just%20a%20good%20programmer%20with%20great%20habits.&author=Kent%20Beck&fontSize=18"
   />
 </p>
+
+## 📈 Contribution Graph
+
+![Ashish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashisheoran&theme=tokyo-night)
+
 
 
 
