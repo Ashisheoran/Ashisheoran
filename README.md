@@ -91,10 +91,10 @@ I value clean, readable code and a structured, analytical approach to problem-so
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Insights
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashisheoran&theme=tokyo-night" width="78%")
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashisheoran&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
 
 ---
