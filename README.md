@@ -80,20 +80,20 @@ I value clean, readable code and a structured, analytical approach to problem-so
 🧠 Data science interview preparation  
 
 ---
-<!--
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashisheoran&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashisheoran&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ashisheoran&theme=tokyonight" />
+
 </p>
 
 ---
--->
-## 📧 Contact Me
 
-📩 Email: ashisheoran1@gmail.com  
-🔗 LinkedIn: [Ashish Sheoran](https://www.linkedin.com/in/ashisheoran/)
-> Always learning, always improving. Let’s build data-driven solutions together.
+## 📈 Contribution Graph
+
+![Ashish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashisheoran&theme=tokyo-night)
 
 ---
 
@@ -105,30 +105,13 @@ I value clean, readable code and a structured, analytical approach to problem-so
   />
 </p>
 
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashisheoran&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashisheoran&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashisheoran&theme=tokyonight" />
-</p>
-
 ---
 
-## 📈 Contribution Graph
+## 📧 Contact Me
 
-![Ashish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashisheoran&theme=tokyo-night)
-
-
-
+📩 Email: ashisheoran1@gmail.com  
+🔗 LinkedIn: [Ashish Sheoran](https://www.linkedin.com/in/ashisheoran/)
+> Always learning, always improving. Let’s build data-driven solutions together.
 
 
 
