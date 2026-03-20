@@ -96,6 +96,17 @@ I value clean, readable code and a structured, analytical approach to problem-so
 > Always learning, always improving. Let’s build data-driven solutions together.
 
 ---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=I'm%20not%20a%20great%20programmer;%20I'm%20just%20a%20good%20programmer%20with%20great%20habits.&author=Kent%20Beck&fontSize=18"
+  />
+</p>
+
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -109,20 +120,8 @@ I value clean, readable code and a structured, analytical approach to problem-so
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ashisheoran&theme=tokyonight" />
 </p>
+
 ---
-## ✍️ Random Dev Quote
-
-<!-- ===================== RANDOM DEV QUOTES (RANDOM TEXT) ===================== -->
-
-
-<!-- Algolia (Cool Background) -->
-
-
-<p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=I'm%20not%20a%20great%20programmer;%20I'm%20just%20a%20good%20programmer%20with%20great%20habits.&author=Kent%20Beck&fontSize=18"
-  />
-</p>
 
 ## 📈 Contribution Graph
 
