@@ -59,14 +59,12 @@ I value clean, readable code and a structured, analytical approach to problem-so
 ## 🛠️ Featured Projects
 
 | Project | Description | Tools |
-|------|------------|-------|
-| **Health Insurance Cost Prediction** | Predict the insurance charges for a person before they buy insurance | Python, scikit-learn, Streamlit |
-| **Movie Recommendation System** | Content-Based movie recommendation system using cosine similarity and Streamlit | Python, Streamlit |
-| **Spam Detector** | Classifying Email/SMS massages as spam or non-spam using NLP techniques | Python, Streamlit, NLTK
-| **Career Skill Quest** | AI-powered platform for resume analysis, skill gap identification, and job recommendations | Python, Gemini AI |
-| **Coffee Shop Sales Analysis** | Sales trend analysis to identify peak hours and high-performing products | Excel, Python |
-| **California Housing Price Prediction** | Regression-based ML model for housing price prediction | Python, scikit-learn |
-👉 More projects available in my repositories.
+|------|--------------|-------|
+| **AutoEDA** | Automates Data Profiling, Visualization, Insights and ML | Python, Streamlit, Plotly |
+| **Sanitify** | Python libarary for analize, validate and imporve datasets | Python, pypi, pytest |
+| **Career Skill Quest** | AI platform for skill gap identification, and job recommendations | Python, Gemini AI |
+| **Health Insurance Cost Prediction** | Predict the insurance charges for a person before they buy | Python, scikit-learn, Streamlit |
+| **Movie Recommendation System** | Content-Based recommendation using cosine similarity | Python, Streamlit |
 
 ---
 
@@ -107,10 +105,6 @@ I value clean, readable code and a structured, analytical approach to problem-so
 
 ---
 
-## 📧 Contact Me
-
-📩 Email: ashisheoran1@gmail.com  
-🔗 LinkedIn: [Ashish Sheoran](https://www.linkedin.com/in/ashisheoran/)
 > Always learning, always improving. Let’s build data-driven solutions together.
 
 
