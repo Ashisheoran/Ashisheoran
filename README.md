@@ -1,24 +1,22 @@
 <h1 align="center">👋 Hi, I'm Ashish Sheoran</h1>
 <p align="center">
-  Aspiring Data Scientist | Data Analysis • Machine Learning • Business Insights
+  Data Science & Machine Learning | Data Analysis • Python • SQL • Business Insights
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I’m an aspiring Data Scientist with a strong foundation in data analysis and a genuine interest in solving real-world problems using data. I enjoy working with Python and SQL, performing exploratory data analysis, and building foundational machine learning models while always keeping business context in focus.
-
-I value clean, readable code and a structured, analytical approach to problem-solving. Currently, I am strengthening my skills in Python, SQL, and machine learning concepts, while continuously improving how I communicate insights clearly. I am actively preparing for Data Analyst and Junior Data Scientist roles.
+I'm an MCA graduate focused on building data-driven solutions to real-world problems. My expertise lies in Python, SQL, and Business Intelligence tools like Excel and Power BI, along with hands-on experience in machine learning and generative AI. I specialize in analytical workflows from data preprocessing and feature engineering to predictive modeling and generate insight.
 
 ---
 
 ## 🚀 What I’m Working On
 
+📱 Developing a python Libarary **Sanitify** to help in analysis before training model  
 📊 Performing end-to-end data analysis to uncover actionable insights  
 📈 Building dashboards and visualizations to communicate trends clearly  
-🤖 Practicing machine learning workflows (regression, evaluation, feature engineering)  
-🧹 Improving data cleaning and preprocessing techniques  
+🤖 Practicing machine learning workflows  
 📚 Strengthening fundamentals in statistics, SQL, and business analytics  
 
 ---
@@ -60,11 +58,11 @@ I value clean, readable code and a structured, analytical approach to problem-so
 
 | Project | Description | Tools |
 |------|--------------|-------|
-| **AutoEDA** | Automates Data Profiling, Visualization, Insights and ML | Python, Streamlit, Plotly |
-| **Sanitify** | Python libarary for analize, validate and imporve datasets | Python, pypi, pytest |
-| **Career Skill Quest** | AI platform for skill gap identification, and job recommendations | Python, Gemini AI |
-| **Health Insurance Cost Prediction** | Predict the insurance charges for a person before they buy | Python, scikit-learn, Streamlit |
-| **Movie Recommendation System** | Content-Based recommendation using cosine similarity | Python, Streamlit |
+| *AutoEDA* | Automates Data Profiling, Visualization and Insights | Python, Streamlit, Plotly |
+| *Sanitify* | Python libarary for analize, validate and imporve datasets | Python, pypi, pytest |
+| *Career Skill Quest* | Skill test with feedback and using Gemini| Python, Gemini AI |
+| *Health Insurance Cost Prediction* | Predict the insurance charges for a person before they buy | Python, scikit-learn, Streamlit |
+| *Movie Recommendation System* | Content-Based recommendation using cosine similarity | Python, Streamlit |
 
 ---
 
@@ -73,8 +71,8 @@ I value clean, readable code and a structured, analytical approach to problem-so
 📊 Advanced EDA and feature engineering  
 📐 Statistics for data science  
 🤖 Machine learning model tuning and evaluation  
-📈 Business storytelling with data  
-🧠 Data science interview preparation  
+🧠 Exploring Langchain agents and techniques
+📐 System design for scalable AI applications
 
 ---
 
@@ -104,8 +102,3 @@ I value clean, readable code and a structured, analytical approach to problem-so
 </p>
 
 ---
-
-> Always learning, always improving. Let’s build data-driven solutions together.
-
-
-
