@@ -80,20 +80,19 @@ I value clean, readable code and a structured, analytical approach to problem-so
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashisheoran&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=ashisheoran&theme=tokyonight" width="51%"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashisheoran&theme=radical" height="60%" />
+  <img src="https://streak-stats.demolab.com?user=ashisheoran&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Contribution Insights
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashisheoran&theme=tokyo-night&area=true&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ashisheoran&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
