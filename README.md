@@ -85,14 +85,6 @@ I'm an MCA graduate focused on building data-driven solutions to real-world prob
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashisheoran&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ## ✍️ Random Dev Quote
 
 <p align="center">
