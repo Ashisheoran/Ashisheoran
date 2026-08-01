@@ -4,15 +4,13 @@
 </p>
 
 ---
-
-## 🧠 About Me
-
-I'm an MCA graduate focused on building data-driven solutions to real-world problems. My expertise lies in Python, SQL, and Business Intelligence tools like Excel and Power BI, along with hands-on experience in machine learning and generative AI. I specialize in analytical workflows from data preprocessing and feature engineering to predictive modeling and generate insight.
+## 🧠 About Me 
+I'm an MCA graduate focused on building data-driven solutions to real-world problems. My expertise lies in Python, SQL, and Business Intelligence tools like Excel and Power BI, along with hands-on experience in machine learning and generative AI. I specialize in analytical workflows from data preprocessing and feature engineering to predictive modeling and generate insight. | <img src="programmer.gif" width='400'> |
+|-----------------|------------------------------------|
 
 ---
 
 ## 🚀 What I’m Working On
-
 📱 Developing a python Libarary **Sanitify** to help in analysis before training model  
 📊 Performing end-to-end data analysis to uncover actionable insights  
 📈 Building dashboards and visualizations to communicate trends clearly  
