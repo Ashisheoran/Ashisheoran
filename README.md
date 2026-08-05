@@ -1,14 +1,14 @@
-<h1 align="center">👋 Hi, I'm Ashish Sheoran</h1>
+<h1 align="center"> Hi there, I'm <a href="https://ashisheoran.portfely.com">Ashish Sheoran </a>👋</h1>
 <p align="center">
   Data Science & Machine Learning | Data Analysis • Python • SQL • Business Insights
 </p>
 
----
-## 🧠 About Me 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
 I'm an MCA graduate focused on building data-driven solutions to real-world problems. My expertise lies in Python, SQL, and Business Intelligence tools like Excel and Power BI, along with hands-on experience in machine learning and generative AI. I specialize in analytical workflows from data preprocessing and feature engineering to predictive modeling and generate insight. | <img src="programmer.gif" width='400'> |
 |-----------------|------------------------------------|
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ## 🚀 What I’m Working On
 📱 Developing a python Libarary **Sanitify** to help in analysis before training model  
@@ -17,7 +17,7 @@ I'm an MCA graduate focused on building data-driven solutions to real-world prob
 🤖 Practicing machine learning workflows  
 📚 Strengthening fundamentals in statistics, SQL, and business analytics  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ## 🧰 Tech Stack
 
@@ -49,8 +49,7 @@ I'm an MCA graduate focused on building data-driven solutions to real-world prob
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
   </p>
 
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ## 🛠️ Featured Projects
 
@@ -62,7 +61,7 @@ I'm an MCA graduate focused on building data-driven solutions to real-world prob
 | *Health Insurance Cost Prediction* | Predict the insurance charges for a person before they buy | Python, scikit-learn, Streamlit |
 | *Movie Recommendation System* | Content-Based recommendation using cosine similarity | Python, Streamlit |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ## 📚 What I’m Learning
 
@@ -72,7 +71,7 @@ I'm an MCA graduate focused on building data-driven solutions to real-world prob
 🧠 Exploring Langchain agents and techniques
 📐 System design for scalable AI applications
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ## ✍️ Random Dev Quote
 
@@ -82,4 +81,3 @@ I'm an MCA graduate focused on building data-driven solutions to real-world prob
   />
 </p>
 
----
