@@ -9,7 +9,7 @@ Building intelligent data-driven solutions with Python, SQL, Machine Learning an
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-I'm an MCA graduate passionate about transforming raw data into meaningful insights and intelligent applications. My work spans the complete data lifecycle—from data collection and preprocessing to visualization, predictive modeling, and AI-powered solutions.I enjoy building practical projects using Python, SQL, Machine Learning, and Business Intelligence tools while continuously exploring Generative AI and modern data engineering practices. | <img src="programmer.gif" width='380'> |
+I'm an MCA graduate passionate about transforming raw data into meaningful insights and intelligent applications. My work spans the complete data lifecycle—from data collection and preprocessing to visualization, predictive modeling, and AI-powered solutions.I enjoy building practical projects using Python, SQL, Machine Learning, and Business Intelligence tools while continuously exploring Generative AI and modern data engineering practices. | <img src="programmer.gif" width='410'> |
 |-----------------|------------------------------------|
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
