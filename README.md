@@ -1,25 +1,18 @@
 <h1 align="center"> Hi there, I'm <a href="https://ashisheoran.portfely.com">Ashish Sheoran </a>👋</h1>
+
+<h3 align="center">
+Data Science • Machine Learning • Data Analytics • Generative AI
+</h3>
+
 <p align="center">
-  Data Science & Machine Learning | Data Analysis • Python • SQL • Business Insights
+Building intelligent data-driven solutions with Python, SQL, Machine Learning and Business Intelligence.
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
-I'm an MCA graduate focused on building data-driven solutions to real-world problems. My expertise lies in Python, SQL, and Business Intelligence tools like Excel and Power BI, along with hands-on experience in machine learning and generative AI. I specialize in analytical workflows from data preprocessing and feature engineering to predictive modeling and generate insight. | <img src="programmer.gif" width='400'> |
+I'm an MCA graduate passionate about transforming raw data into meaningful insights and intelligent applications. My work spans the complete data lifecycle—from data collection and preprocessing to visualization, predictive modeling, and AI-powered solutions.I enjoy building practical projects using Python, SQL, Machine Learning, and Business Intelligence tools while continuously exploring Generative AI and modern data engineering practices. | <img src="programmer.gif" width='360'> |
 |-----------------|------------------------------------|
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
-## 🚀 What I’m Working On
-📱 Developing a python Libarary **Sanitify** to help in analysis before training model  
-📊 Performing end-to-end data analysis to uncover actionable insights  
-📈 Building dashboards and visualizations to communicate trends clearly  
-🤖 Practicing machine learning workflows  
-📚 Strengthening fundamentals in statistics, SQL, and business analytics  
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
-## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
@@ -51,29 +44,36 @@ I'm an MCA graduate focused on building data-driven solutions to real-world prob
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-## 🛠️ Featured Projects
+## Currently Working On
+- Developing **Sanitify**, a Python library for automated dataset validation and quality assessment.
+- Building end-to-end data analytics projects with Python and SQL.
+- Creating interactive dashboards using Power BI.
+- Exploring Machine Learning and Generative AI applications.
+- Strengthening statistical analysis and business intelligence skills.
 
-| Project | Description | Tools |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+## Featured Projects
+
+| Project | Description | Technologies |
 |------|--------------|-------|
-| *AutoEDA* | Automates Data Profiling, Visualization and Insights | Python, Streamlit, Plotly |
 | *Sanitify* | Python libarary for analize, validate and imporve datasets | Python, pypi, pytest |
+| *AutoEDA* | Automates Data Profiling, Visualization and Insights | Python, Streamlit, Plotly |
 | *Career Skill Quest* | Skill test with feedback and using Gemini| Python, Gemini AI |
 | *Health Insurance Cost Prediction* | Predict the insurance charges for a person before they buy | Python, scikit-learn, Streamlit |
 | *Movie Recommendation System* | Content-Based recommendation using cosine similarity | Python, Streamlit |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-## 📚 What I’m Learning
+## Currently Learning
 
-📊 Advanced EDA and feature engineering  
-📐 Statistics for data science  
-🤖 Machine learning model tuning and evaluation  
-🧠 Exploring Langchain agents and techniques
-📐 System design for scalable AI applications
+- Advanced Feature Engineering
+- Model Evaluation & Hyperparameter Tuning
+- Statistics for Data Science
+- LangChain Agents & RAG Applications
+- Scalable AI System Design
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
-## ✍️ Random Dev Quote
 
 <p align="center">
   <img
