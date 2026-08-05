@@ -74,15 +74,6 @@ I'm an MCA graduate focused on building data-driven solutions to real-world prob
 
 ---
 
-## 📊 GitHub Dashboard
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashisheoran&theme=radical" height="60%" />
-  <img src="https://streak-stats.demolab.com?user=ashisheoran&theme=radical&hide_border=true"/>
-</p>
-
----
-
 ## ✍️ Random Dev Quote
 
 <p align="center">
