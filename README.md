@@ -4,12 +4,13 @@
 Data Science • Machine Learning • Data Analytics • Generative AI
 </h3>
 
-<p align="center">
-Building intelligent data-driven solutions with Python, SQL, Machine Learning and Business Intelligence.
-</p>
+
+  
+[![Design Philosophy](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=5500&pause=1500&color=58A6FF&center=true&vCenter=true&width=1000&lines=Build+only+what+you+need+today,+but+design+it+so+it+can+be+extended+tomorrow.)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-I'm an MCA graduate passionate about transforming raw data into meaningful insights and intelligent applications. My work spans the complete data lifecycle—from data collection and preprocessing to visualization, predictive modeling, and AI-powered solutions.I enjoy building practical projects using Python, SQL, Machine Learning, and Business Intelligence tools while continuously exploring Generative AI and modern data engineering practices. | <img src="programmer.gif" width='430'> |
+
+| I'm an MCA graduate passionate about transforming raw data into meaningful insights and intelligent applications. My work spans the complete data lifecycle—from data collection and preprocessing to visualization, predictive modeling, and AI-powered solutions.I enjoy building practical projects using Python, SQL, Machine Learning, and Business Intelligence tools while continuously exploring Generative AI and modern data engineering practices. | <img src="programmer.gif" width='430'> |
 |-----------------|------------------------------------|
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
