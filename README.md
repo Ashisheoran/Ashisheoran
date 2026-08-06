@@ -10,8 +10,12 @@ Data Science • Machine Learning • Data Analytics • Generative AI
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-| I'm an MCA graduate passionate about transforming raw data into meaningful insights and intelligent applications. My work spans the complete data lifecycle—from data collection and preprocessing to visualization, predictive modeling, and AI-powered solutions.I enjoy building practical projects using Python, SQL, Machine Learning, and Business Intelligence tools while continuously exploring Generative AI and modern data engineering practices. | <img src="programmer.gif" width='430'> |
-|-----------------|------------------------------------|
+<table>
+  <tr>
+    <td width='55%' align='center'> <b>I'm an MCA graduate passionate about transforming raw data into meaningful insights and intelligent applications. My work spans the complete data lifecycle—from data collection and preprocessing to visualization, predictive modeling, and AI-powered solutions.I enjoy building practical projects using Python, SQL, Machine Learning, and Business Intelligence tools while continuously exploring Generative AI and modern data engineering practices </b></td> 
+    <td width='45%'> <img src="programmer.gif"> </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
